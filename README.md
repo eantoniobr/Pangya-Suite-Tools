@@ -8,7 +8,7 @@ This Project is my version of Development
 - [Authors](#authors)
 - [Installation](#installation)
 - [Using](#start)
-- [Information](#information)
+- [Information](#tips)
 - [Collaboration](#feedback)
 
 ### Installation
@@ -18,6 +18,7 @@ you don't need to install anything, only .net framework 4.8
 ### start
 
 put your pangya_jp.iff next to the program, and run the same
+
 
 ### Authors
 
@@ -29,3 +30,8 @@ put your pangya_jp.iff next to the program, and run the same
 envie seu feedback no discord: luismk(LuisMK#2116)
 
 send your feedback on discord: luismk(LuisMK#2116)
+
+
+### tips
+
+to view the icons of the items, extract "Images.rar" next to the program
