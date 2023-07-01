@@ -24,7 +24,8 @@ put your pangya_jp.iff next to the program, and run the same
 
 * **Eric Antonio** - *Collaboration* - [ADM Pangya Unogames](https://github.com/eantoniobr)
 * **Luis MK** - *Project Creator* - [ADM Pangya GameRaze](https://github.com/luismk)
-
+### donate
+https://www.paypal.com/invoice/p/#INV2-CFZ8-6VT2-ZL75-LUZ9
 ### feedback
 
 envie seu feedback no discord: luismk(LuisMK#2116)
