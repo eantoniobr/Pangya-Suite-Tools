@@ -13,14 +13,17 @@ look for this file:
 
 open with a normal text editor
 
-'<add name="DefaultConnection" connectionString="Data Source=127.0.0.1,1433;Initial Catalog=pangya;Network Library = DBMSSOCN;User ID=sa;Password=84872060"/>'
-
 edit the following parameters (if necessary)
-DataSource=127.0.0.1,1433;
-Initial Catalog=pangya;
-Network Library = DBMSSOCN;
-UserID=sa;
-Password=84872060
+
+  DataSource=127.0.0.1,1433;
+  
+  Initial Catalog=pangya;
+  
+  Network Library = DBMSSOCN;
+  
+  UserID=sa;
+  
+  Password=84872060
 
 
 save and then try to run the application. If successful, the application continues to run
@@ -37,6 +40,8 @@ Click on 'ok' if you have filled in the necessary data in the fields
 ### AppMenu
 
 see this simple menu
+
+![menu](https://cdn.discordapp.com/attachments/774375484498640907/1160261049925242920/image.png?ex=6534044e&is=65218f4e&hm=882b3d2ec334f970a545a30800a800cce873de00f0efe86fac75aedd19c7405d&)
 
 Language.dat = you edit the client's *.dat file
 
