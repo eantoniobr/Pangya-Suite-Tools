@@ -7,13 +7,15 @@
 - [File](#appconfig)
 - [Save IFF](#appsave)
 - [Configuration](#appconfig)
-- [Exit](#appExit)
+- [Exit](#appexit)
 ### AppFile
 
 contains 3 submenus
 
 1- Open (you can load your own iff, pangya_jp.iff)
+
 2- Extraction (you can extract the *.iff files)
+
 3- Reload (reload the iff data)
 
 ### AppSave
@@ -26,6 +28,7 @@ there is no mystery
 contains 2 submenus
 
 1- Auto Load IFF (you can autoload or disable)
+
 2- Hide (the application will disappear, and will appear in the Windows icon menu)
 
 ### AppExit
