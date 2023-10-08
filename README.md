@@ -8,7 +8,7 @@ This Project is my version of Development
 - [Authors](#authors)
 - [Installation](#installation)
 - [Using](#start)
-- [Information](#tips)
+- [Start](#tips)
 - [Collaboration](#feedback)
 
 ### Installation
@@ -20,7 +20,7 @@ you don't need to install anything, only .net framework 4.8
 
 put your pangya_jp.iff next to the program, and run the same
 
-
+### Tutorial 
 ### Authors
 
 * **Eric Antonio** - *Collaboration* - [ADM Pangya Unogames](https://github.com/eantoniobr)
@@ -35,5 +35,5 @@ send your feedback on discord: luismk(LuisMK#2116)
 
 
 ### tips
+[how to use the application?](https://github.com/luismk/Pangya-Suite-Tools/blob/PangyaDev/Tutorial.md)
 
-to view the icons of the items, extract "Images.rar" next to the program
