@@ -5,11 +5,14 @@
 - [Configuration](#appconfig)
 - [Login](#applogin)
 - [Menu](#appmenu)
-
+- [Icon](#appshowicons)
 ### AppConfig
-look for this file:
 
-'Pang Modern Tools.exe.config'
+Question: I can't access the app, what should I do?
+
+Response:
+
+look for this file: 'Pang Modern Tools.exe.config'
 
 open with a normal text editor
 
@@ -29,6 +32,9 @@ edit the following parameters (if necessary)
 save and then try to run the application. If successful, the application continues to run
 ### AppLogin
 
+Question: I'm stuck at the login part, what should I do?
+
+Response:
 Here you must enter your account
 
 Access is only allowed if it is a GM account (capability = 4)
@@ -58,3 +64,17 @@ GM Tools = Tool to manage the acrisio super ss dev server
 Gen TypeID = IFF TypeID Generator (next version will disappear)
 
 About App = About the app, creators and contributors
+
+
+### AppShowIcons
+
+
+![icons](https://cdn.discordapp.com/attachments/774375484498640907/1152356744853471294/image.png?ex=6532f259&is=65207d59&hm=ed04c7c382026e30bc8d6cbb14154b62c64359750fdee9c333bb7afaa0872790&) 
+
+
+Question: How do I see item icons?
+
+Answer: Download the 'Images.rar' file in the main part of the project
+
+extract the folder and place it next to the Application
+It is not necessary to restart the application for the icons to appear in the IFF Editor
